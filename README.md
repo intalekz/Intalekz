@@ -6,6 +6,8 @@ Rap / hip-hop artist.
 
 [Listen to Intalekz on Spotify](https://open.spotify.com/artist/36Qsg1iv0nioENS6flhBX1)
 
+[Listen to Intalekz on Apple Music](https://music.apple.com/au/artist/intalekz/265879132)
+
 [Watch Intalekz on YouTube](https://www.youtube.com/@intalekz)
 
 [Listen to Intalekz on SoundCloud](https://soundcloud.com/intalekz)
