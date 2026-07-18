@@ -10,4 +10,6 @@ Rap / hip-hop artist.
 
 [Listen to Intalekz on SoundCloud](https://soundcloud.com/intalekz)
 
+[Watch Intalekz on Vimeo](https://vimeo.com/intalekz)
+
 <!-- Spotify artist ID: 36Qsg1iv0nioENS6flhBX1 -->
