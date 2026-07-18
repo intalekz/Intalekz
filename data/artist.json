@@ -4,5 +4,10 @@
     "artistId": "36Qsg1iv0nioENS6flhBX1",
     "artistUrl": "https://open.spotify.com/artist/36Qsg1iv0nioENS6flhBX1",
     "embedUrl": "https://open.spotify.com/embed/artist/36Qsg1iv0nioENS6flhBX1"
+  },
+  "youtube": {
+    "handle": "@intalekz",
+    "channelUrl": "https://www.youtube.com/@intalekz",
+    "sharedUrl": "https://youtube.com/@intalekz?si=Nn2ASFP9uW6wIJyZ"
   }
 }
