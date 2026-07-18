@@ -23,5 +23,10 @@
   "vimeo": {
     "username": "intalekz",
     "profileUrl": "https://vimeo.com/intalekz"
+  },
+  "social": {
+    "instagram": "https://www.instagram.com/intalekz/",
+    "threads": "https://www.threads.com/@intalekz",
+    "facebook": "https://www.facebook.com/intalekz"
   }
 }
