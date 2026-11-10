@@ -28,5 +28,30 @@
     "instagram": "https://www.instagram.com/intalekz/",
     "threads": "https://www.threads.com/@intalekz",
     "facebook": "https://www.facebook.com/intalekz"
-  }
+  },
+  "website": "https://www.intalekz.com/",
+  "description": "Intalekz is a rap and hip-hop artist building a creative universe across music, film and gaming.",
+  "creativeFields": [
+    "Music",
+    "Film",
+    "Gaming"
+  ],
+  "projects": {
+    "musicCollection": {
+      "url": "https://www.intalekz.com/collection"
+    },
+    "intalekzUniverse": {
+      "url": "https://www.intalekz.com/universe"
+    },
+    "lekzJump": {
+      "url": "https://www.intalekz.com/lekz-jump",
+      "status": "in-development"
+    }
+  },
+  "creativeTools": [
+    "OpenAI / ChatGPT",
+    "Grok / Grok Imagine",
+    "Suno",
+    "Claude (selected projects)"
+  ]
 }
